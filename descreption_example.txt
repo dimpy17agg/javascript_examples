@@ -1,0 +1,6 @@
+this is the example of javascript....
+
+this  use onclick button which changes the attribute of an image.
+the image changes when the button is clicked....
+
+i hope you understood!!
