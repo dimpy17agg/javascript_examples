@@ -1,0 +1,8 @@
+explaination--
+
+
+with javascript we can implement on clicking image of our code....
+by onclick event...
+
+
+thanks for watching..
